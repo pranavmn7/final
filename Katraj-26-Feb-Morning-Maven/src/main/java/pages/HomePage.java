@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class HomePage {
 	
-	//chnages2
+	//chnages212
 	@FindBy (xpath="//*[@id='branding']//a[@id='welcome']")
 	private WebElement link;
 	
